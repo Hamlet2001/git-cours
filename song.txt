@@ -3,4 +3,10 @@ jbdjkfcbdsjkf
 n cnds bn
 klmklnlkv 
  mdnmkld
+<<<<<<< HEAD
 --------------
+=======
+b jbjkbjkac
+jbkjbskjacbx
+njkbnjkbsacjk
+>>>>>>> d30f3c60abadec5355f101f483cc4d485cb56fe8
